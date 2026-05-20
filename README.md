@@ -105,8 +105,8 @@ MCA graduate. Recently worked remotely as an <strong>LLM Post-Training Intern at
 
 ## GitHub Snapshot
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Pandey786&show_icons=true&hide_title=true&theme=github_dark&hide_border=true&bg_color=0D1117)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Pandey786&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Pandey786&show_icons=true&hide_title=true&theme=transparent&hide_border=true&cache_seconds=1800)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Pandey786&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800)
 
 ---
 
