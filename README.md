@@ -12,7 +12,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/abhishek-pandey-a4534a23b" target="_blank">LinkedIn</a> •
   <a href="mailto:abhipa233@gmail.com">Email</a> •
-  <a href="https://your-portfolio.com" target="_blank">Portfolio</a> •
+  <a href="https://portfolio-topaz-beta-91.vercel.app/" target="_blank">Portfolio</a> •
   <a href="https://github.com/Abhishek-Pandey786" target="_blank">GitHub</a>
 </p>
 
