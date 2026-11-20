@@ -1,12 +1,13 @@
 <!--
-  Premium, modern GitHub profile README for Abhishek Pandey
-  Focus: Backend, Full Stack, and AI workflow exposure
+  GitHub Profile README - Abhishek Pandey
+  Focus: Backend Engineering, Full Stack Development, and AI-Integrated Systems
 -->
 
 <h1 align="left">Abhishek Pandey</h1>
+
 <p align="left">
-  <strong>Backend + Full Stack Engineer</strong> with practical exposure to <strong>AI workflow systems</strong><br/>
-  Systems-oriented, product-first engineering across APIs, data, and applied AI workflows
+  <strong>Software Engineer | Backend & Full Stack Development | AI-Integrated Applications</strong><br/>
+  Building backend systems, full-stack applications, and AI-powered workflows.
 </p>
 
 <p align="left">
@@ -18,11 +19,15 @@
 
 ---
 
-## About
+## About Me
 
-MCA graduate. Recently worked remotely as an <strong>LLM Post-Training Intern at Ethara AI</strong>, focused on evaluation-driven AI quality: prompt analysis, response assessment, structured reasoning workflows, and human-in-the-loop review. I build backend-first systems and full stack products with a practical, implementation-focused mindset.
+MCA graduate with hands-on experience building backend services, full-stack applications, and AI-integrated workflows.
 
-**Engineering interests**: Backend engineering, full stack development, AI systems, LLM workflow infrastructure, AI product engineering, workflow automation, scalable backend systems, AI-assisted engineering, and operational intelligence systems.
+Previously worked remotely as an **LLM Post-Training Intern at Ethara AI**, focusing on AI-generated response evaluation, prompt analysis, reasoning accuracy, instruction following, and model failure analysis. Contributed to evaluation guidelines and quality benchmarks across distributed workflows.
+
+My project experience includes REST API development, relational database design, authentication and authorization, multi-service application development, asynchronous processing, and integrating AI capabilities into applications.
+
+**Engineering Interests:** Backend Engineering · Full Stack Development · Python Development · AI Engineering · LLM Workflows · Workflow Automation · Software Architecture
 
 ---
 
@@ -36,21 +41,21 @@ MCA graduate. Recently worked remotely as an <strong>LLM Post-Training Intern at
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
 
-**Frontend**
+**Frontend Development**
 
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111111?style=for-the-badge&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss)
 
-**Backend**
+**Backend & APIs**
 
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logo=fastapi)
 
 **Databases**
 
@@ -59,61 +64,110 @@ MCA graduate. Recently worked remotely as an <strong>LLM Post-Training Intern at
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite)
 
-**Developer Tools**
+**AI & Data**
+
+![Gemini API](https://img.shields.io/badge/Gemini_API-111111?style=for-the-badge&logo=googlegemini)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-111111?style=for-the-badge)
+![Prompt Analysis](https://img.shields.io/badge/Prompt_Analysis-111111?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn)
+![Power BI Basic](https://img.shields.io/badge/Power_BI-Basic-111111?style=for-the-badge&logo=powerbi)
+
+**Developer Tools & Infrastructure**
 
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
 ![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter)
-
-**AI / Workflow Exposure**
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111111?style=for-the-badge&logo=openai)
-![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-111111?style=for-the-badge&logo=opensearch)
-![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-111111?style=for-the-badge&logo=zapier)
-![Structured Reasoning](https://img.shields.io/badge/Structured%20Reasoning-111111?style=for-the-badge&logo=github)
-
-**Analytics Exposure**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi)
-![SQL Analytics](https://img.shields.io/badge/SQL%20Analytics-111111?style=for-the-badge&logo=postgresql)
-![Operational Dashboards](https://img.shields.io/badge/Operational%20Dashboards-111111?style=for-the-badge&logo=chartdotjs)
 
 ---
 
 ## Featured Projects
 
-| Project                                | Stack                                         | Engineering Highlights                                                                                                            |
-| -------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| **CampusSync**                         | Python, FastAPI, PostgreSQL, Docker, React.js | Workflow automation platform with role-based systems, backend orchestration, REST APIs, analytics, and ML-based delay prediction. |
-| **CUMA**                               | Python, Node.js, React.js, MySQL, Gemini API  | Multilingual conversational workflows with speech processing, translation systems, and role-based backend logic.                  |
-| **Operational Analytics Dashboard**    | Python, SQL, PostgreSQL, React.js             | KPI dashboards with analytics workflows, anomaly detection, reporting pipelines, and operational monitoring.                      |
-| **Education Platform (Microservices)** | Python, Flask, MongoDB, REST APIs             | Modular microservices architecture with inter-service communication, validation workflows, CRUD APIs, and health monitoring.      |
+### 1. CampusSync — Intelligent Workflow Automation
+
+**Python · FastAPI · PostgreSQL · React · Docker · scikit-learn**
+
+A full-stack workflow automation application combining backend APIs, relational data management, and machine-learning-based delay prediction.
+
+- Developed **29 REST API endpoints across 5 routers** for authentication, requests, workflows, predictions, and alerts, secured using JWT and bcrypt.
+- Designed a normalized PostgreSQL schema covering **6 workflow stages**, with audit logging and SQL-based reporting.
+- Engineered **19 features** and evaluated **5 machine-learning classifiers**. Logistic Regression achieved **98.68% accuracy and a 0.9756 F1-score**.
+- Integrated Gemini 2.0 Flash for prediction explanations and implemented SMTP-based SLA alerts.
+- Containerized the application using Docker Compose across **3 services**.
+
+[View Repository](https://github.com/Abhishek-Pandey786/campus-sync-wokflow-automation)
+
+---
+
+### 2. CUMA — Christ University Multilingual AI Assistant
+
+**React · JavaScript · Node.js · Express · Python · MySQL · Gemini API**
+
+A multilingual AI assistant built with a React frontend, Node.js backend, and separate Python AI service.
+
+- Developed a multi-service application integrating Gemini 1.5 Pro for multilingual assistant functionality through application APIs.
+- Implemented concurrent PDF processing using PyPDF2, Tesseract OCR, and ThreadPoolExecutor with **3 workers**.
+- Added exponential backoff to handle transient Gemini API failures.
+- Developed **20 REST API endpoints**, JWT authentication, and role-based access control for **3 user roles**.
+- Designed a MySQL 8.0 schema supporting users, sessions, courses, and OTP-based password resets.
+
+[View Repository](https://github.com/Abhishek-Pandey786/CUMA)
+
+---
+
+### 3. Education Platform — Microservices Architecture
+
+**Python · Flask · MongoDB · REST APIs**
+
+A modular education platform developed using a microservices-oriented architecture.
+
+- Organized the application into separate Student, Course, and Enrollment services.
+- Developed backend REST API functionality using Flask.
+- Used MongoDB for data persistence.
+- Focused on modular service organization and inter-service communication.
+
+[Explore GitHub Repositories](https://github.com/Abhishek-Pandey786)
+
+---
+
+## Professional Experience
+
+### Ethara AI — LLM Post-Training Intern
+
+**January 2026 – May 2026 | Remote**
+
+- Evaluated AI-generated responses and technical outputs using structured rubrics covering correctness, instruction following, reasoning accuracy, edge-case handling, and safety.
+- Analyzed incorrect and partially correct model responses to identify recurring reasoning errors, instruction deviations, and quality issues across evaluation workflows.
+- Developed SOPs and quality benchmarks for new evaluation categories, documenting expected model behavior and scoring criteria to support consistent assessments across distributed teams.
 
 ---
 
 ## Current Focus
 
-- AI-native backend systems and LLM workflow infrastructure
-- Backend APIs for reliable products and automation pipelines
-- Scalable engineering workflows and AI-assisted operations
-- Workflow automation and operational intelligence systems
+- Strengthening backend engineering and API design skills.
+- Building maintainable, multi-service applications.
+- Exploring AI-integrated applications and LLM evaluation workflows.
+- Improving system design, software engineering fundamentals, and deployment practices.
 
 ---
 
 ## GitHub Snapshot
 
-![Followers](https://img.shields.io/github/followers/Abhishek-Pandey786?style=for-the-badge&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/Abhishek-Pandey786?style=for-the-badge&label=Stars&logo=github)
-![Last commit](https://img.shields.io/github/last-commit/Abhishek-Pandey786/Abhishek-Pandey786?style=for-the-badge&label=Last%20commit&logo=git)
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Abhishek-Pandey786?style=for-the-badge&label=Followers&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/Abhishek-Pandey786?style=for-the-badge&label=Stars&logo=github" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Abhishek-Pandey786&style=for-the-badge&color=111111" alt="Profile Views"/>
+</p>
 
 ---
 
-## Contact
+## Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/abhishek-pandey-a4534a23b
-- Email: abhipa233@gmail.com
-- Portfolio: https://portfolio-topaz-beta-91.vercel.app/
-- GitHub: https://github.com/Abhishek-Pandey786
+I'm open to opportunities in backend development, full-stack engineering, Python development, and AI-integrated software engineering.
+
+- **LinkedIn:** [Abhishek Pandey](https://www.linkedin.com/in/abhishek-pandey-a4534a23b)
+- **Email:** [abhipa233@gmail.com](mailto:abhipa233@gmail.com)
+- **Portfolio:** [Visit Portfolio](https://portfolio-topaz-beta-91.vercel.app/)
+- **GitHub:** [Abhishek-Pandey786](https://github.com/Abhishek-Pandey786)
