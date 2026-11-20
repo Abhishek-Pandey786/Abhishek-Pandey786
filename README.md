@@ -119,16 +119,18 @@ A multilingual AI assistant built with a React frontend, Node.js backend, and se
 
 ### 3. Education Platform — Microservices Architecture
 
-**Python · Flask · MongoDB · REST APIs**
+**Python · Flask · MongoDB · Docker · Docker Compose · Nginx**
 
-A modular education platform developed using a microservices-oriented architecture.
+A distributed REST API system built around three independently organized microservices for student, course, and enrollment management.
 
-- Organized the application into separate Student, Course, and Enrollment services.
-- Developed backend REST API functionality using Flask.
-- Used MongoDB for data persistence.
-- Focused on modular service organization and inter-service communication.
+- Designed **3 independent Flask microservices** for Student, Course, and Enrollment domains, with MongoDB collections for entity persistence.
+- Implemented **24 REST API endpoints** covering entity management, search, filtering, pagination, and enrollment operations.
+- Configured an **Nginx API Gateway** to route client requests to individual services through dedicated endpoints.
+- Implemented synchronous inter-service HTTP communication, allowing the Enrollment service to retrieve student and course details.
+- Used Docker Compose to orchestrate the services and MongoDB, with an isolated network, health checks, and service startup dependencies.
 
-[Explore GitHub Repositories](https://github.com/Abhishek-Pandey786)
+[View Repository](https://github.com/Abhishek-Pandey786/education-platform)
+
 
 ---
 
